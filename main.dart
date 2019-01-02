@@ -10,7 +10,6 @@ dynamic factorial() {
   }
 }
 
-
 main() {
   number = 1;
   result = factorial();
