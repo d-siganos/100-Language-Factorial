@@ -2,7 +2,7 @@ package factorialjava;
 
 import java.util.Scanner;
 
-public class FizzBuzzJava {
+public class FactorialJava {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
