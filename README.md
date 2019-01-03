@@ -1,2 +1,3 @@
 # 100LanguageFactorial
-BonfireScratch and KennethSweezy
+BonfireScratch for C++, Java, JavaScript, Dart, Lua, Ruby and Python
+KennethSweezy for C#
