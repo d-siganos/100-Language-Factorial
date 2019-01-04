@@ -4,17 +4,14 @@ int main()
    int number;
    printf("Enter a number: ");
    fgets(number,20,stdin);
-   result = factorial()
+   result = factorial(number)
    return 0;
 }
 
 int max(int number) {
    int result;
- 
-   if (num1 > num2)
-      result = num1;
+   if (number <= 1)
+      return 1;
    else
-      result = num2;
- 
-   return result; 
+      return number*factorial(number-1)
 }
