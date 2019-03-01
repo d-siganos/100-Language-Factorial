@@ -2,6 +2,8 @@
 
 using namespace std;
 
+double factorial(int number);
+
 int main()
 {
     int number, result;
