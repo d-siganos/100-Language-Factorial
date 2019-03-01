@@ -2,7 +2,7 @@
 
 using namespace std;
 
-double factorial(int number);
+int factorial(int number);
 
 int main()
 {
@@ -14,7 +14,7 @@ int main()
     return 0;
 }
 
-double factorial(int number)
+int factorial(int number)
 {
     if(number <= 1) {
         return 1;
