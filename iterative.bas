@@ -1,0 +1,6 @@
+INPUT "", A
+B = 1
+FOR I = 1 TO A
+B = B * I
+NEXT I
+PRINT STR$(B)
